@@ -53,9 +53,3 @@ for times in range(3):
     if player == 'P' and chose_opt == 'S':
         print('You lost')
         comp_wins = comp_wins + 1
-
-        
-        
-
-    
-    
